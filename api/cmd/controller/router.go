@@ -9,5 +9,5 @@ func Initialize() {
 
 	api.GET("/shops/1/services", getServices())
 
-	router.Run(":3400")
+	router.Run(":9000")
 }

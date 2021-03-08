@@ -1,9 +1,9 @@
 package controller
 
 import (
+	"booking-backend/api/cmd/entities"
 	"net/http"
 
-	"github.com/alelaca/booking-backend/api/cmd/entities"
 	"github.com/gin-gonic/gin"
 )
 
