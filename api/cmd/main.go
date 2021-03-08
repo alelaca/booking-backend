@@ -1,6 +1,6 @@
 package main
 
-import "booking-backend/api/cmd/controller"
+import "github.com/alelaca/booking-backend/api/cmd/controller"
 
 func main() {
 	controller.Initialize()

@@ -1,4 +1,4 @@
-module booking-backend
+module github.com/alelaca/booking-backend
 
 go 1.16
 
