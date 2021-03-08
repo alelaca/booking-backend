@@ -3,7 +3,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/alelaca/booking-backend/api/cmd/entities"
+	"github.com/alelaca/booking-backend/cmd/entities"
 	"github.com/gin-gonic/gin"
 )
 
